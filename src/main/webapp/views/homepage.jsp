@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeTruffle</title>
+  <title>Agasthyanadi</title>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
   
   <meta content="" name="descriptison">
@@ -44,13 +44,13 @@
   <section id="topbar" class="d-none d-lg-block">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i><a href="mailto:codetruffletechnologies@gmail.com">Kollegalagastyanadi@gmail.com</a>
-        <i class="icofont-phone"></i> +91 7829546843
+        <i class="icofont-envelope"></i><a href="mailto:codetruffletechnologies@gmail.com">kollegalagastyanadi@gmail.com</a>
+        <i class="icofont-phone"></i> +91 7406706863 &nbsp &nbsp   +91 9482073554
       </div>
       <div class="social-links">
         <a href="https://www.facebook.com/code.truffle" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="mailto:codetruffletechnologies@gmail.com" class="emial"><i class="icofont-email"></i></a>
-        <a href="http://api.whatsapp.com/send?phone=918867185121" class="whatsapp"><i class="icofont-whatsapp"></i></i></a>
+        <a href="http://api.whatsapp.com/send?phone=919482073554" class="whatsapp"><i class="icofont-whatsapp"></i></i></a>
       </div>
     </div>
   </section>
@@ -233,7 +233,7 @@
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">10</span>
+            <span data-toggle="counter-up">80</span>
             <p>Beneficiaries</p>
           </div>
 
@@ -248,7 +248,7 @@
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">10</span>
+            <span data-toggle="counter-up">07</span>
             <p>Workers</p>
           </div>
 
@@ -285,7 +285,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in">
-              <div class="icon"><i class="bx bx-money"></i></div>
+              <img src="assets/img/palm.jpg" class="img-fluid" alt="">
               <h4><a href="">Nadi Jothishyam</a></h4>
               <p>#</p>
             </div>
@@ -293,14 +293,14 @@
                     
           <div class="col-lg-3 col-md-9 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-equalizer"></i></div>
+              <img src="assets/img/stone.jpg" class="img-fluid" alt="">
               <h4><a href="">Astrology</a></h4>
               <p>#</p>
             </div>                                                                                                 
           </div>
             <div class="col-lg-3 col-md-5 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <img src="assets/img/chakra.jpg" class="img-fluid" alt="">
               <h4><a href="">Jyothishyam</a></h4>
               <p>#</p>
             </div>
@@ -308,7 +308,7 @@
 
           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-mobile-vibration" ></i></div>
+             <img src="assets/img/thumb.jpg" class="img-fluid" alt="">
               <h4><a href="">Khandamas</a></h4>
               <p>#</p>
             </div>
@@ -564,7 +564,7 @@
    
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            		Astrology is just a finger ointing at reality.
+            		Astrology is just a finger pointing at reality.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -776,7 +776,8 @@
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+91 7829546843</p>
+                <p>+91 7406706863</p>
+                
               </div>
 
             </div>
@@ -846,7 +847,7 @@
         <div class="social-links">
           <a href="https://www.facebook.com/code.truffle" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="mailto:codetruffletechnologies@gmail.com" class="email"><i class="icofont-email"></i></a>
-          <a href="http://api.whatsapp.com/send?phone=918867185121" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+          <a href="http://api.whatsapp.com/send?phone=919482073554" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
         </div>
 
       </div>
