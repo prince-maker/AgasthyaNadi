@@ -285,7 +285,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in">
-              <img src="assets/img/palm.jpg" class="img-fluid" alt="">
+              <img src="assets/img/hand.jpg" class="img-fluid" alt="">
               <h4><a href="">Nadi Jothishyam</a></h4>
               <p>#</p>
             </div>
