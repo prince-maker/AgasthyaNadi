@@ -673,6 +673,186 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Sage
+--------------------------------------------------------------*/
+.sage .box-heading h4 {
+  font-size: 32px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  padding: 8px 20px;
+  margin: 0 0 15px 0;
+  background: #f3f8ec;
+  color: #8fc04e;
+  display: inline-block;
+  text-transform: uppercase;
+  border-radius: 50px;
+}
+
+.sage .box-heading h3 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #353535;
+  margin-bottom: 15px;
+}
+
+/*.sage .icon-box {
+  margin-top: 40px;
+}
+
+.sage .icon-box .icon {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  border: 2px solid #d6e8bf;
+  border-radius: 50px;
+  transition: 0.5s;
+}
+
+.sage .icon-box .icon i {
+  color: #8fc04e;
+  font-size: 32px;
+}
+
+.sage .icon-box:hover .icon {
+  background: #8fc04e;
+  border-color: #8fc04e;
+}
+
+.sage .icon-box:hover .icon i {
+  color: #fff;
+}
+
+.sage .icon-box .title {
+  margin-left: 85px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.sage .icon-box .title a {
+  color: #343a40;
+  transition: 0.3s;
+}
+
+.sage .icon-box .title a:hover {
+  color: #8fc04e;
+}
+
+.sage .icon-box .description {
+  margin-left: 85px;
+  line-height: 24px;
+  font-size: 14px;
+}
+*/
+.sage .video-box {
+  background: url("../img/sages.jpg") center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
+/*
+.sage .play-btn {
+  width: 94px;
+  height: 94px;
+  background: radial-gradient(#8fc04e 50%, rgba(143, 192, 78, 0.4) 52%);
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  left: calc(50% - 47px);
+  top: calc(50% - 47px);
+  overflow: hidden;
+}
+
+.sage .play-btn::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-40%) translateY(-50%);
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 15px solid #fff;
+  z-index: 100;
+  transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.sage .play-btn::before {
+  content: '';
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+  -webkit-animation: pulsate-btn 2s;
+  animation: pulsate-btn 2s;
+  -webkit-animation-direction: forwards;
+  animation-direction: forwards;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-timing-function: steps;
+  animation-timing-function: steps;
+  opacity: 1;
+  border-radius: 50%;
+  border: 5px solid rgba(143, 192, 78, 0.7);
+  top: -15%;
+  left: -15%;
+  background: rgba(198, 16, 0, 0);
+}
+
+.sage .play-btn:hover::after {
+  border-left: 15px solid #8fc04e;
+  transform: scale(20);
+}
+
+.sage .play-btn:hover::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-40%) translateY(-50%);
+  width: 0;
+  height: 0;
+  border: none;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 15px solid #fff;
+  z-index: 200;
+  -webkit-animation: none;
+  animation: none;
+  border-radius: 0;
+}
+
+@-webkit-keyframes pulsate-btn {
+  0% {
+    transform: scale(0.6, 0.6);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1, 1);
+    opacity: 0;
+  }
+}
+
+@keyframes pulsate-btn {
+  0% {
+    transform: scale(0.6, 0.6);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1, 1);
+    opacity: 0;
+  }
+}
+*/
+
+
+
+/*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
 .why-us .box {
