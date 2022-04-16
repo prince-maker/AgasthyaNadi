@@ -70,7 +70,7 @@
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
          
-       <!--     <li><a href="#team">Team</a></li>-->
+       <li><a href="#sage">Sages</a></li>
                  <li><a href="#contact">Contact Us</a></li>
 
         </ul>
@@ -741,6 +741,30 @@
     </section>-->
     
     <!-- End F.A.Q Section ----------------------------------------------------------------------->
+	      
+	       <!-- ======= Sages ======= -->
+    <section id="sage" class="sage">
+       <div class="container">
+
+        <div class="row">
+         <div class="col-xl-3 col-lg-4 video-box1 d-flex justify-content-center align-items-stretch" data-aos="zoom-in">
+         </div>
+         <div class="col-xl-5 col-lg-4 video-box d-flex justify-content-center align-items-stretch" data-aos="zoom-in">  
+		 </div> 
+          
+
+          <div class="col-xl-12 col-lg-18 d-flex flex-column align-items-stretch justify-content-center py-20 px-lg-15">
+           <pre>
+            <div class="box-heading" data-aos="fade-up">
+             					    <h4>Our Sages</h4>
+             
+     	 	</pre>
+            </br>            
+            </div> 
+            </div>
+            </div></section>
+            
+            <!-- ======= End Sages ======= -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
