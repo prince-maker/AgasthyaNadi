@@ -308,7 +308,7 @@
 
           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-             <img src="assets/img/thumb.jpeg" class="img-fluid" alt="">
+             <img src="assets/img/thum.jpeg" class="img-fluid" alt="">
               <h4><a href="">Khandamas</a></h4>
               <p>#</p>
             </div>
