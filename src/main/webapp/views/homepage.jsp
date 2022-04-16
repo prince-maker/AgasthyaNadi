@@ -45,7 +45,7 @@
     <div class="container d-flex">
       <div class="contact-info mr-auto">
         <i class="icofont-envelope"></i><a href="mailto:codetruffletechnologies@gmail.com">kollegalagastyanadi@gmail.com</a>
-        <i class="icofont-phone"></i> +91 7406706863 &nbsp &nbsp   +91 9482073554
+        <i class="icofont-phone"></i> +91 7406706863 &nbsp &nbsp   +91 9482073554 &nbsp +91 7829546843
       </div>
       <div class="social-links">
         <a href="https://www.facebook.com/code.truffle" class="facebook"><i class="icofont-facebook"></i></a>
