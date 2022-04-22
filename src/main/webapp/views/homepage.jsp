@@ -45,7 +45,7 @@
     <div class="container d-flex">
       <div class="contact-info mr-auto">
         <i class="icofont-envelope"></i><a href="mailto:codetruffletechnologies@gmail.com">kollegalagastyanadi@gmail.com</a>
-        <i class="icofont-phone"></i> +91 7406706863 &nbsp &nbsp   +91 9482073554 &nbsp &nbsp +91 7829546843
+        <i class="icofont-phone"></i> +91 9482073554 &nbsp &nbsp   +91 7406706863 &nbsp &nbsp +91 7829546843
       </div>
       <div class="social-links">
         <a href="https://www.facebook.com/code.truffle" class="facebook"><i class="icofont-facebook"></i></a>
@@ -285,7 +285,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in">
-              <img src="assets/img/hand.jpg" class="img-fluid" alt="">
+              <img src="assets/img/thum.jpg" class="img-fluid" alt="">
               <h4><a href="">Nadi Jothishyam</a></h4>
               <p>#</p>
             </div>
@@ -308,7 +308,7 @@
 
           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-             <img src="assets/img/thum.jpg" class="img-fluid" alt="">
+             <img src="assets/img/hand.jpg" class="img-fluid" alt="">
               <h4><a href="">Khandamas</a></h4>
               <p>#</p>
             </div>
