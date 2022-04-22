@@ -107,7 +107,7 @@
              					    <h4>About us</h4>
              
      	   <h1 style="color:#34282C"> 		  Parampariya Agastyanadi Astrology</h1>
-           <h2 style= "color:#E5CF72">                                              Guruji Sri SEKAR</h3>   
+           <h2 style= "color:#E5CF72">                                              Guruji Sivakannan Swamigal</h3>   
      		<h5>           			      Nadi Astrology is 500 year old and he is well versed in this field.</h5>
      		</pre>
             </br>            
