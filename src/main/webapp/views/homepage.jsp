@@ -800,7 +800,7 @@
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+91 7406706863</p>
+                <p>+91 9482073554</p>
                 
               </div>
 
