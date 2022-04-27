@@ -44,12 +44,12 @@
   <section id="topbar" class="d-none d-lg-block">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i><a href="mailto:codetruffletechnologies@gmail.com">kollegalagastyanadi@gmail.com</a>
+        <i class="icofont-envelope"></i><a href="mailto:kollegalagastyanadi@gmail.com">kollegalagastyanadi@gmail.com</a>
         <i class="icofont-phone"></i> +91 9482073554 &nbsp &nbsp   +91 7406706863 &nbsp &nbsp +91 7829546843
       </div>
       <div class="social-links">
         <a href="https://www.facebook.com/code.truffle" class="facebook"><i class="icofont-facebook"></i></a>
-        <a href="mailto:codetruffletechnologies@gmail.com" class="emial"><i class="icofont-email"></i></a>
+        <a href="mailto:kollegalagastyanadi@gmail.com" class="emial"><i class="icofont-email"></i></a>
         <a href="http://api.whatsapp.com/send?phone=919482073554" class="whatsapp"><i class="icofont-whatsapp"></i></i></a>
       </div>
     </div>
@@ -794,7 +794,7 @@
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>Kollegalagastyanadi@gmail.com</p>
+                <p>kollegalagastyanadi@gmail.com</p>
               </div>
 
               <div class="phone">
@@ -870,7 +870,7 @@
 
         <div class="social-links">
           <a href="https://www.facebook.com/code.truffle" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="mailto:codetruffletechnologies@gmail.com" class="email"><i class="icofont-email"></i></a>
+          <a href="mailto:kollegalagastyanadi@gmail.com" class="email"><i class="icofont-email"></i></a>
           <a href="http://api.whatsapp.com/send?phone=919482073554" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
         </div>
 
